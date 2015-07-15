@@ -1,0 +1,10 @@
+Dear $name,
+
+Thank you so much for the $present.  I can't believe that I'm already
+$age years old.  It doesn't feel that different than being $age-1.
+
+Thank you again for the $present.
+
+Sincerely,
+
+$yourname
